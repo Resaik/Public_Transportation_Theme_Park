@@ -1,6 +1,6 @@
 # This Project:
 
-Implements the requirements set by the www.iise.org contest problem 6,
+Implements the requirements set by the www.iise.org contest problem 6,  
 a simulation of a public transport system in a fictious amusement park featuring:
 
 * two different proposed designs for station layouts
@@ -11,12 +11,21 @@ a simulation of a public transport system in a fictious amusement park featuring
 Using this model:
 
 * we calculated the expected performance and cost for 320 parameter variations 
-* and presented our results as a dashboard:
+* and presented our results as a dashboard
+
+A more detailed overview of the project can be found in:
+
+* <a href="/presentation_kick_off.pdf">the kick off presentation</a>
+
+* <a href="/presentation_product_delivery.pdf">the product delivery presentation</a>
+
+This project was developed by two students as part of the Smart Production Management track at the University of Vienna
 
 
-![Dashboard](/Dashboard.PNG)
+## Dashboard:
 
+<img src="/Dashboard.PNG" width="750"/>
 
 ## Process Graph:
 
-![Process](/Process_graph.PNG)
+<img src="/Process_graph.PNG" width="750"/>
