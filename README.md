@@ -6,7 +6,7 @@ a simulation of a public transport system in a fictious amusement park featuring
 * two different proposed designs for station layouts
 * a fixed and a demand driven train schedule 
 * a user definable combination of the number of trains and their individual amount of cars 
-* a known distribution of guests' arrival rate and individual destination
+* an agent based simulation of guests' arrival rates and individual destinations
 
 Using this model:
 
