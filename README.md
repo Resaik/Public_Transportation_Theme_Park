@@ -25,6 +25,11 @@ This project was developed by two students as part of the Smart Production Manag
 
 <img src="/Dashboard.PNG" width="750"/>
 
+
+## Example Simulation Run
+
+https://user-images.githubusercontent.com/103814944/169655002-8a755479-ea3e-4769-a217-ba959d31e047.mp4
+
 ## Process Graph:
 
 <img src="/Process_graph.PNG" width="750"/>
