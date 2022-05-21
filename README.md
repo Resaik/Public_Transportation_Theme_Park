@@ -1,6 +1,6 @@
 # This Project:
 
-Implements the requirements set by the www.iise.org contest problem 6,  
+Implements the requirements set by the www.iise.org contest problem 6 using AnyLogic and custom Java functions,  
 a simulation of a public transport system in a fictious amusement park featuring:
 
 * two different proposed designs for station layouts
