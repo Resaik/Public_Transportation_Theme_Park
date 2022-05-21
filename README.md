@@ -21,7 +21,7 @@ A more detailed overview of the project can be found in:
 
 This project was developed by two students as part of the Smart Production Management track at the University of Vienna
 
-## Example Simulation Run
+## Example Simulation Run:
 
 https://user-images.githubusercontent.com/103814944/169655002-8a755479-ea3e-4769-a217-ba959d31e047.mp4
 
