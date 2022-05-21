@@ -1,6 +1,6 @@
 # This Project:
 
-Implements the requirements set by the www.iise.org contest problem 6 using AnyLogic and custom Java functions,  
+Implements the requirements set by the www.iise.org contest problem 6,  
 a simulation of a public transport system in a fictious amusement park featuring:
 
 * two different proposed designs for station layouts
@@ -21,7 +21,6 @@ A more detailed overview of the project can be found in:
 
 This project was developed by two students as part of the Smart Production Management track at the University of Vienna
 
-
 ## Dashboard:
 
 <img src="/Dashboard.PNG" width="750"/>
@@ -29,3 +28,9 @@ This project was developed by two students as part of the Smart Production Manag
 ## Process Graph:
 
 <img src="/Process_graph.PNG" width="750"/>
+
+## Tools and Environment:
+AnyLogic 8.7.2 Personal Learning Edition:
+* Process Modelling Library
+* Custom Java Logic
+
